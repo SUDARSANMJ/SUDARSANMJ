@@ -1,4 +1,4 @@
-![](https://github.com/SUDARSANMJ/SUDARSAN-MAJHI/blob/main/Green%20and%20Black%20Modern%20Technology%20YouTube%20Channel%20Art%20(1).png)
+
 <h1 align="center">Hi there👋, I'm Sudarsan</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
